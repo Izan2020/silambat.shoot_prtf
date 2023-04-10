@@ -1,4 +1,4 @@
-![foto](https://cdn.discordapp.com/attachments/988735884843184210/1095133821277569114/image.png)
+
 ![foto2](https://cdn.discordapp.com/attachments/988735884843184210/1095134047023403168/image.png)
 
 
