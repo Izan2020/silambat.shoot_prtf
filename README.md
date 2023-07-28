@@ -1,6 +1,5 @@
 
-![foto2](https://cdn.discordapp.com/attachments/988735884843184210/1095134047023403168/image.png)
-
+![lg](https://github.com/Izan2020/silambatshoot_web/assets/59131023/2b39fcaa-139b-4399-83a1-8ae83dd474cc)
 
 # Silambatshoot Portofolio
 Designing a website for a photographer is an exciting project, as it allows you to showcase their talent and creativity to the world. Recently, I had the pleasure of designing a website for my client, Jeremy, who is a talented photographer.
