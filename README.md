@@ -17,6 +17,8 @@ Overall, designing Jeremy's photography portfolio website was a fulfilling exper
 ∙ I use media query to make it Responsive with Mobile Screen <br>
 ∙ I use jquery for the navbar color changing <br>
 
+https://izan2020.github.io/silambatshoot_web/
+
 
 
 
