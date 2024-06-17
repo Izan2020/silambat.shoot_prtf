@@ -1,6 +1,8 @@
 
 ![lg](https://github.com/Izan2020/silambatshoot_web/assets/59131023/2b39fcaa-139b-4399-83a1-8ae83dd474cc)
 
+[![Technologies](https://skillicons.dev/icons?i=bootstrap,html,css)](https://skillicons.dev)
+
 # Silambatshoot Portofolio
 Designing a website for a photographer is an exciting project, as it allows you to showcase their talent and creativity to the world. Recently, I had the pleasure of designing a website for my client, Jeremy, who is a talented photographer.
 
